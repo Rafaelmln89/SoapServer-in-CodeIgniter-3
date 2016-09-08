@@ -4,10 +4,11 @@
 What is?
 --------------------------------------
 
-This a a simple example to make a comunication with diferents servers; 
+This a simple example to make a comunication with diferents servers; 
 This project is an example to use SoapServer in Codeigniter 3
 
 *SoapServer: PHP class provides a server for the » SOAP 1.1 and » SOAP 1.2 protocols. It can be used with or without a WSDL service description.
+
 *CodeIgniter: A powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
 
 How to use
